@@ -1,4 +1,4 @@
 console.log("hello")
 function Run_JS(){
-    alert("Don't fcking touch me again!")
+    alert("Don't f*cking touch me again!")
 }
