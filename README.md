@@ -3,5 +3,5 @@ Website for making my life easier when counting up the register when my work shi
 
 Check out this cute dog:
 </br>
-<a href="https://www.reddit.com/r/Eyebleach/"><img src="https://i.imgur.com/4RZOVRa.png" title="nice doggo"/></a>
+<a href="https://www.reddit.com/r/Eyebleach/"><img src="https://i.imgur.com/4RZOVRa.png" title="nice doggo" width="300"/></a>
 
