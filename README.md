@@ -3,5 +3,5 @@ Website for making my life easier when counting up the register when my work shi
 
 Check out this cow:
 </br>
-<a href="https://thumbs.gfycat.com/"><img src="https://thumbs.gfycat.com/DarlingObviousAndeancondor-max-14mb.gif" title="nice cow"/></a>
+<a href="https://www.reddit.com/r/Eyebleach/"><img src="https://i.imgur.com/4RZOVRa.png" title="nice doggo"/></a>
 
